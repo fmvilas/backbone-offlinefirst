@@ -1,0 +1,28 @@
+{
+  "author": "Francisco Méndez Vilas <fmvilas@gmail.com> (http://fmvilas.com)",
+  "name": "backbone.offlinefirst",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fmvilas/backbone-offlinefirst.git"
+  },
+  "dependencies": {
+    "backbone": "~1.x.x",
+    "jquery": "~2.1.0",
+    "underscore": ">=1.4.0"
+  },
+  "keywords": [
+    "backbone",
+    "localstorage",
+    "local",
+    "storage",
+    "cache",
+    "sync",
+    "offline",
+    "offlinefirst"
+  ],
+  "main": "./backbone.offlinefirst.js",
+  "engines": {
+    "node": "*"
+  }
+}
